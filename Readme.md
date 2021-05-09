@@ -4,7 +4,7 @@ Using Commend Prompt
 
 1. Navigate to project folder open commend prompt 
 
-2. (multi browser)  Type
+2. (multi browser)  Type (chrome 90) 
 
         mvn test -Dbrowser=firefox
                    OR
